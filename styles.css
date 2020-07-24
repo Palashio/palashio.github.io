@@ -1,0 +1,45 @@
+body {
+  font-family: lora;
+}
+h1 {
+  font-family: lora;
+  -webkit-font-smoothing: antialiased;
+}
+p {
+  font-family: lora;
+  -webkit-font-smoothing: antialiased;
+
+}
+a {
+	text-decoration: none;
+}
+#description{
+	width: 40%;
+	margin: auto;
+	height: auto;
+	line-height: 1.4;
+}
+
+#icons {
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+#zoom
+{
+  text-decoration: none;
+}
+#name {
+	margin-left:20%;
+}
+
+#bar {
+    border: none;
+    border-color: #d3d3d3;
+    height: 0.1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+    border-bottom: 0px;
+}
