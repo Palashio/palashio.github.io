@@ -43,3 +43,7 @@ a {
     background-color: #333; /* Modern Browsers */
     border-bottom: 0px;
 }
+
+#news {
+  text-decoration:none;
+}
