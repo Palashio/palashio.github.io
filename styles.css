@@ -5,6 +5,7 @@ h1 {
   font-family: IBM Plex Sans;
   -webkit-font-smoothing: antialiased;
 }
+
 p {
   font-family: IBM Plex Sans;
   -webkit-font-smoothing: antialiased;
@@ -12,6 +13,12 @@ p {
 }
 a {
 	text-decoration: none;
+}
+
+#center {
+  /* text-align: center; */
+  text-decoration: none;
+  margin-left:30%;
 }
 #description{
 	width: 40%;
@@ -46,4 +53,10 @@ a {
 
 #news {
   text-decoration:none;
+}
+
+#break {
+  text-decoration:none;
+  margin-right: auto;
+  width:40%;
 }
